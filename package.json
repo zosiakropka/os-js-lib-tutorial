@@ -1,0 +1,27 @@
+{
+  "name": "os-js-lib-tutorial",
+  "version": "1.0.0",
+  "description": "It's nothing special, just a tutorial followed",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zosiakropka/os-js-lib-tutorial.git"
+  },
+  "keywords": [
+    "sharpen",
+    "saw",
+    "tutorial"
+  ],
+  "author": "Zofia Wiśniowolska <wisniowolska@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zosiakropka/os-js-lib-tutorial/issues"
+  },
+  "homepage": "https://github.com/zosiakropka/os-js-lib-tutorial#readme",
+  "dependencies": {
+    "unique-random-array": "^1.0.0"
+  }
+}
