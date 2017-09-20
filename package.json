@@ -1,6 +1,6 @@
 {
   "name": "os-js-lib-tutorial",
-  "version": "1.1.0",
+  "version": "1.2.0-beta.0",
   "description": "It's nothing special, just a tutorial followed. Don't ever install it.",
   "main": "src/index.js",
   "scripts": {
